@@ -104,13 +104,7 @@ The project notebooks provide code to plot and visualize the training loss, rewa
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/yourusername/neurosymbolic-program-generation.git](https://github.com/yourusername/neurosymbolic-program-generation.git)
-    cd neurosymbolic-program-generation
+    git clone https://github.com/Beny-Maleki/NeuroSymbolic.git
+    cd NeuroSymbolic
     ```
-
-2.  Install the required Python packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  Run the notebook cells sequentially to download the data, preprocess it, train the models, and perform the evaluations. You will need to have a Google Drive mounted to save the pre-trained model weights.
+2.  Run the notebook cells sequentially to download the data, preprocess it, train the models, and perform the evaluations. You will need to have a Google Drive mounted to save the pre-trained model weights.
